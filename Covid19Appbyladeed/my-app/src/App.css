@@ -1,0 +1,96 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+.header {
+  background-color: #394150;
+  height: 60px;
+  width: 100%;
+  
+  
+  color: white;
+}
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin-top: -10px;
+  margin-right: 10px;
+}
+.dot:hover{
+ background-color: #105ce9;
+  cursor: pointer;
+}
+.headerPara{
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 540px;
+
+margin-top: 1px;
+}
+.Body-main{
+  background-color: #bbb;
+  width: 100%;
+  height:640px;
+}
+.left-main{
+  background-color: rgb(255, 255, 255);
+  height: 581px;
+  margin-left: 329px;
+  width: 1006px;
+}
+.right-main{
+  width: 226px;
+  background-color: rgb(235, 240, 231);
+  height: 581px;
+  margin-top: -579px;
+  
+}
+.check-div{
+  margin-top: 0px;
+  padding-top: 9px;
+  padding-left: 18px;
+}
+.Bar-graph{
+  height: 665px;
+  padding-top: 61px;
+}
+
+.footer{
+  width: 100%;
+  height: 100px;
+  margin-bottom: 0%;
+  background-color: black;
+  padding-bottom: 44px;
+ 
+
+}
+.graph1{
+  height: 400px;
+ 
+  margin-left: 300px;
+  width: 456px;
+}
+.graph2{
+  height: 400px;
+  margin-top: -134px;
+  margin-left: 300px;
+  width: 456px;
+}
+.date{
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0;
+  margin: 0;
+}
+.pie-graph{
+  height: 293px;
+  margin-left: -102px;
+  width: 355px;
+  
+  margin-top: -178px;
+  background-color: #fcfff9;
+}
