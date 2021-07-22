@@ -1,0 +1,124 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+.Header {
+  background-color: #282c34;
+  height: 100px;
+
+position: fixed;
+  background-color: #282c34;
+  color: white;
+  width: 100%;
+ 
+}
+
+.logo{
+  color: rgb(206, 211, 200);
+
+  }
+  .logo:hover{
+    cursor: pointer;
+    color: cornflowerblue;
+  }
+
+
+.name{
+  display: flex;
+  
+  align-items: center;
+  justify-content: center;
+}
+
+.container{
+  height: 900px;
+ background-color: rgb(163, 205, 241);
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.inputbox{
+  width: 300px;
+  height: 50px;
+  font-size: large;
+}
+.btn{
+  margin:30px;
+  height: 51px;
+  width: 59px;
+  background-color: dimgrey;
+}
+.btn:hover{
+cursor: pointer;
+}
+
+.homeLink{
+  
+  margin-top: 36px;
+    margin-left: 3px;
+    color: antiquewhite;
+}
+.homeLink:hover{
+  color:dodgerblue;
+  cursor: pointer;
+}
+
+ul{
+  margin-left: 29px;
+  margin-top: 22px;
+  list-style-type: none;
+}
+li:hover{
+ color: blue;
+ cursor: pointer; 
+}
+.btn-Cricket{
+  height: 51px;
+  width: 59px;
+  background-color: dimgrey;
+  margin-left: 484px;
+  margin-top: -745px;
+}
+.btn-Cricket:hover{
+  cursor: pointer;
+  }
+  .btn-FLAG{
+    height: 51px;
+    width: 59px;
+    background-color: dimgrey;
+    margin-left: 484px;
+    margin-top: -700px;
+  }
+  .btn-FLAG:hover{
+    cursor: pointer;
+    }
+.btn-down{
+     bottom:0%;
+      height: 51px;
+      width: 59px;
+      background-color: dimgrey;
+      margin-top: 100px;
+     
+}
+.last-page{
+  margin-top: 10px;
+}
+.btn-down2{
+  bottom:0%;
+   height: 51px;
+   width: 59px;
+   background-color: dimgrey;
+   margin-top: 100px;
+   margin-left: 20px;
+}
+.blue{
+  color: aqua;
+}
+.darkblue{
+  color: blue;
+}
+.answer{
+  color: blue;
+}
